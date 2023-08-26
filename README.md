@@ -1,9 +1,9 @@
 # projetosDio
  cibersecurity-desafio-phishing
 
-# Phishing para captura de senhas do Facebook
+# Phishing obter credencial do Facebook
 
-### Ferramentas
+### Ferramentas utilizadas
 
 - Kali Linux
 - setoolkit
@@ -21,4 +21,4 @@
 
 ### Resutados
 
-![Alt text](./passwd.png "Optional title")
+![Alt text](./senha.png "Optional title")
